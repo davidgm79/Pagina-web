@@ -65,3 +65,47 @@
     height: 100%;
     width: 100%;
 }
+
+.imagen-menu{
+    height: 30%;
+    width: 30%;
+    border-radius: 20px;
+}
+
+.Menu-1{
+    height: 100px;
+    border-radius: 20px;
+}
+
+.btn-btn-primary-1{
+    bottom: 50px;
+    background-color: aqua;
+    border-bottom-color: #ffffff;
+}
+
+.btn-btn-primary-2{
+    bottom: 50px;
+    background-color: aqua;
+    border-bottom-color: #ffffff;
+}
+
+.btn-btn-primary-3{
+    bottom: 50px;
+    background-color: aqua;
+    border-bottom-color: #ffffff;
+}
+
+.I1{
+    height: 40px;
+    width: 40px;
+}
+
+.I2{
+    height: 40px;
+    width: 40px;
+}
+
+.I3{
+    height: 40px;
+    width: 40px;
+}
