@@ -78,19 +78,19 @@
 }
 
 .btn-btn-primary-1{
-    bottom: 50px;
+    bottom: 170px;
     background-color: aqua;
     border-bottom-color: #ffffff;
 }
 
 .btn-btn-primary-2{
-    bottom: 50px;
+    bottom: 170px;
     background-color: aqua;
     border-bottom-color: #ffffff;
 }
 
 .btn-btn-primary-3{
-    bottom: 50px;
+    bottom: 170px;
     background-color: aqua;
     border-bottom-color: #ffffff;
 }
@@ -108,4 +108,11 @@
 .I3{
     height: 40px;
     width: 40px;
+}
+
+.Pie{
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
 }
